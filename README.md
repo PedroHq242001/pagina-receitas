@@ -4,12 +4,12 @@ O projeto consiste em uma página de receitas feita em React, a qual é atualiza
 ### Visualização do projeto:
 - Tela grande:
 
-![Projeto-full](https://github.com/user-attachments/assets/b7fc1765-f1f5-44a4-b7d7-a6f1f300e976)
+![Projeto-full](https://github.com/user-attachments/assets/012ec6b0-fe53-4a23-ba7f-6b5b75806378)
+
 
 - Tela pequena:
 
-![Projeto-small](https://github.com/user-attachments/assets/5a0b2f24-42c8-461d-b9a4-8d514f81335f)
-
+![Projeto-small](https://github.com/user-attachments/assets/dd4e9284-98e1-40c7-ab4a-050062e907d5)
 
 
 ### Tecnologias utilizadas
