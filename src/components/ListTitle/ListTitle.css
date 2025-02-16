@@ -1,0 +1,21 @@
+.title {
+   text-align: center;
+}
+
+@media screen and (min-width: 460px) {
+   .title {
+      font-size: 36px;
+   }
+}
+
+@media screen and (min-width: 850px) {
+   .title {
+      font-size: 45px;
+   }
+}
+
+@media screen and (min-width: 1200px) {
+   .title {
+      text-align: start;
+   }
+}

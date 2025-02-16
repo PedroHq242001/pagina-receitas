@@ -1,0 +1,29 @@
+.list-title {
+   margin-bottom: 1em;
+   margin-top: 1em;
+}
+.list {
+   margin: 1em 1em;
+   margin-right: 5em;
+   max-height: 320px;
+   overflow-y: auto;
+   list-style: disc;
+}
+
+@media screen and (min-width: 460px) {
+   .list-title {
+      font-size: 28px;
+   }
+   .list {
+      font-size: 20px;
+   }
+}
+
+@media screen and (min-width: 850px) {
+   .list-title {
+      font-size: 32px;
+   }
+   .list {
+      font-size: 24px;
+   }
+ }
